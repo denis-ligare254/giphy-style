@@ -1,0 +1,11 @@
+.search{
+ text-align: center;
+ font-size: 18px;
+ margin: 30px auto;
+ max-width: 600px;
+}
+.search input{
+ width: 100%;
+ padding: 8px 16px;
+ margin-top: 20px;
+}
