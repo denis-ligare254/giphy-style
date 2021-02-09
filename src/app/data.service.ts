@@ -5,5 +5,5 @@ import {HttpClientModule} from '@angular/common/http'
 })
 export class DataService {
 
-  constructor() { }
+  constructor(private http:HttpClientModule) { }
 }
